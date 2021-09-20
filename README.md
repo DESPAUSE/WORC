@@ -8,4 +8,4 @@
 * Plataforma: Windows 7 ou Superior
 * Público alvo: Jogadores de RPG, jogos de tabuleiro e RTS.
 - Classificação indicativa: 12 anos – Violência implícita e jogabilidade baseada em estratégia e adaptação.
-* Equipe: Marcos Eduardo, Vinícius Almeida e ***Roger Hainz**
+* Equipe: Marcos Eduardo, Vinícius Almeida e ***Roger Hainz***
