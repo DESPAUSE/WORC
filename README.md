@@ -10,7 +10,5 @@
 * **Classificação indicativa:** 12 anos – Violência implícita e jogabilidade baseada em estratégia e adaptação.
 * **Equipe:** Marcos Eduardo, Vinícius Almeida e ***Roger Hainz***
 * **Orçamento:** 
-- ***2 exércitos + PvP Local*** (09/08/21 - 06/12/21)
-- R$ 12.000,00
-- ***2 exércitos + PvP Online + PvCPU*** (09/08/21 - 31/06/22)
-- R$ 36.000,00
+- ***2 exércitos + PvP Local*** (09/08/21 - 06/12/21)                                                                                                                             R$ 12.000,00
+- ***2 exércitos + PvP Online + PvCPU*** (09/08/21 - 31/06/22)                                                                                                                    R$ 36.000,00
