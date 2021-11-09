@@ -33,39 +33,47 @@ Contato: Vinícius Almeida +55 15 99745-3211
 
 Versão 1
 
+
 **Histórico de revisões:** 
 
 (25/10/2021) GDD Base - Decisões Iniciais;
 
+***
+
 **Objetivos de jogo**
 
-Dois exércitos se enfrentam até a morte.
+  Dois exércitos se enfrentam até a morte.
 
-O jogo consiste em uma batalha turno a turno, sendo eles turnos de movimentos e turnos de ações. Ao final vence quem derrotar todas as tropas de seu oponente ou somar mais pontos ao final de um tempo.
+  O jogo consiste em uma batalha turno a turno, sendo eles turnos de movimentos e turnos de ações. Ao final vence quem derrotar todas as tropas de seu oponente ou somar mais pontos ao final de um tempo.
 
-No turno de movimento jogadores podem mover suas peças e/ou preparar ataques que exigem o tal. No turno de ataque pode atacar tropas inimigas no alcance e/ou preparar ataques. 
+  No turno de movimento jogadores podem mover suas peças e/ou preparar ataques que exigem o tal. No turno de ataque pode atacar tropas inimigas no alcance e/ou preparar ataques. 
+
 
 **Visão geral da história**
 
 ***A S D***
 
+
 **Controles do jogo**
 
-O jogo será feito em 3D, sendo necessário uso do mouse e possibilitando atalhos pelo uso do teclado. 
+  O jogo será feito em 3D, sendo necessário uso do mouse e possibilitando atalhos pelo uso do teclado. 
 Será necessário o uso do cursor para definir alvos de movimentação e ataques.
+
 
 **Exigências de Tecnologia**
 
-O jogo será ambientado em um tabuleiro 3D, sendo a câmera controlada pelo jogador para ajudar na navegação.
-O sistema de turnos e movimento foi baixado e será modificado afim de se adequar ao jogo. 
+  O jogo será ambientado em um tabuleiro 3D, sendo a câmera controlada pelo jogador para ajudar na navegação.
+  O sistema de turnos e movimento foi baixado e será modificado afim de se adequar ao jogo. 
+
 
 **Front End do Jogo**
 
-*	Apresentação do Logotipo Unity
-*	Apresentação do Logotipo Despause
+  -	Apresentação do Logotipo Unity
+  -	Apresentação do Logotipo Despause
+
 
 **Tela de título**
-Logo ASD, abaixo os botões jogar, opções e sair.
-A navegação entre os menus será feita através do cursor do mouse.
+  Logo ASD, abaixo os botões jogar, opções e sair.
+  A navegação entre os menus será feita através do cursor do mouse.
 
 ========================================================================================
