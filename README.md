@@ -16,7 +16,7 @@ As tropas variam de tamanho e força conforme de acordo com um ranking de 1-5. O
 - ***2 exércitos + PvP Online + PvCPU*** (09/08/21 - 31/06/22) == *R$ 36.000,00*
 
 
-===============================================================================================================================
+============================================================================================
 
 ## **GDD**
 
@@ -30,7 +30,7 @@ Contato: Vinícius Almeida +55 15 99745-3211
 08/11/2021
 Versão 1
 
-** Histórico de revisões: ** (25/10/2021) GDD Base - Decisões Iniciais;
+**Histórico de revisões:** (25/10/2021) GDD Base - Decisões Iniciais;
 
 **Objetivos de jogo**
 Dois exércitos se enfrentam até a morte.
@@ -56,4 +56,4 @@ O sistema de turnos e movimento foi baixado e será modificado afim de se adequa
 Logo ASD, abaixo os botões jogar, opções e sair.
 A navegação entre os menus será feita através do cursor do mouse.
 
-===============================================================================================================================
+============================================================================================
