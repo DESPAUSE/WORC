@@ -61,13 +61,26 @@ Atacar oponentes a seu alcance e disparar habilidades previamente preparadas.
 O jogo consta(rá) com vários tipos de tropas diferentes, cada uma delas têm um tipo de poder diferente, sendo essas divididas de Tier 1 à 5, será necessário administrar suas escolhas para montar uma composição forte.
 Você pode, por exemplo, no exército de humanos optar entre uma opção mais estratégica, como um capitão que move todas as suas tropas em sincronia, ou dano bruto, com um mago explodindo bolas de fogo enormes.
 
+![Tropas](/assets/images/Tropas.png)
 
+Cada exército contém 21 tropas distintas. As tropas variam de tamanho e força conforme de acordo com um Tier de 1-5. O jogador pode escolher:
+* Uma tropa de Tier 5 e 4;
+* Duas de Tier 3;
+* Três de Tier 2 e 1. 
+Havendo três tipos de tropa Tier 5, quatro de Tier 4 e 3, e cinco de Tier 2 e 1 disponíveis para escolha.
 
-**Exigências de Tecnologia**
+![Tiers](/assets/images/Apresentação1.jpg)
 
-  O jogo será ambientado em um tabuleiro 3D, sendo a câmera controlada pelo jogador para ajudar na navegação.
-  O sistema de turnos e movimento foi baixado e será modificado afim de se adequar ao jogo. 
+A imagem representa a quantidade de tropas diferentes disponíveis por tier, cada círculo verde representa a quantidade máxima possível do tier.
 
+**Controles**
+
+O controle do jogo será através de mouse e interface. Clicando em tropas, onde deverá se mover, quem deverá atacar, qual habilidade usará etc.
+
+**Principais Conceitos do Gameplay**
+
+O jogo é multijogador baseado em partidas, os jogadores escolhem quais raças usarão e iniciam uma partida.
+![MMago](/assets/images/Mestre%20mago.png)
 
 **Front End do Jogo**
 
