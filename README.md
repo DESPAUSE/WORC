@@ -113,7 +113,7 @@ Seguida das informações de ataque defesa e movimento há a descrição da habi
 
 ![BolaDeFogo](/assets/images/Bola%20de%20fogo.png)
 
-Como descrito, a habilidade bola de fogo por exemplo terá seus números x e y substituídos pela quantidade atual de vida (na primeira linha x = 5 e y = 5)
+Como descrito, a habilidade bola de fogo por exemplo terá seus números x e y substituídos pela quantidade correspondente ao número atual de vida (Ex: Mestre Mago, com seu máximo de vida: X=5 e Y=5)
 
 As habilidades mais poderosas necessitam de uma ação de preparação (indicado na imagem pelo símbolo antecessor ao nome da habilidade ⓘ) e outra ação para ser executada, ou seja, torna-se necessário dois turnos para o lançamento de uma bola de fogo. Assim que disparada, a habilidade necessita de preparação novamente caso queira usá-la outra vez.
 
