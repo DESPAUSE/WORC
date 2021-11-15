@@ -23,21 +23,21 @@ As tropas variam de tamanho e força conforme de acordo com um ranking de 1-5. O
 # ![LogoV1 -  WORC](/assets/images/Worc.png)
 
 
-Versão 0.9
+Versão 1.0
 
 
 **Escrito por Despause**
 
 Contato: Vinícius Almeida +55 15 99745-3211
+         Marcos Filho +55 15 98158-8023
 
 08/11/2021
-
-Versão 1
 
 
 **Histórico de revisões:** 
 
 (25/10/2021) GDD Base - Decisões Iniciais;
+(15/11/2021) GDD Base - Decisões Iniciais;
 
 ***
 
