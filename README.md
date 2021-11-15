@@ -21,6 +21,7 @@ As tropas variam de tamanho e força conforme de acordo com um ranking de 1-5. O
 ## **GDD**
 
 # **WORC**
+![LogoV1](/assets/images/Worc.png)
 
 Versão 0.9
 
