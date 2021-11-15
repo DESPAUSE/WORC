@@ -23,42 +23,44 @@ As tropas variam de tamanho e força conforme de acordo com um ranking de 1-5. O
 # ![LogoV1 -  WORC](/assets/images/Worc.png)
 
 
-Versão 1.0
+PC
 
+Classificação: 14+
+
+Data de Lançamento: 30/06/2022
 
 **Escrito por Despause**
 
-Contato: Vinícius Almeida +55 15 99745-3211
-         Marcos Filho +55 15 98158-8023
+         Contato: 
 
-08/11/2021
+         Vinícius Almeida - +55 15 99745-3211
 
+         Marcos Filho - +55 15 98158-8023
 
-**Histórico de revisões:** 
-
-(25/10/2021) GDD Base - Decisões Iniciais;
-(15/11/2021) GDD Base - Decisões Iniciais;
+15/11/2021
 
 ***
 
-**Objetivos de jogo**
+**História e gameplay**
 
-  Dois exércitos se enfrentam até a morte.
-
-  O jogo consiste em uma batalha turno a turno, sendo eles turnos de movimentos e turnos de ações. Ao final vence quem derrotar todas as tropas de seu oponente ou somar mais pontos ao final de um tempo.
-
-  No turno de movimento jogadores podem mover suas peças e/ou preparar ataques que exigem o tal. No turno de ataque pode atacar tropas inimigas no alcance e/ou preparar ataques. 
+O jogo consiste em uma batalha turno a turno multijogador, onde dois exércitos se enfrentam até a morte. Ao final vence quem derrotar todas as tropas de seu oponente ou somar mais pontos ao final de um tempo determinado.
 
 
-**Visão geral da história**
+**Fluxo de jogo**
 
-***A S D***
+As tropas controladas pelos jogadores são mais fortes no início do jogo, sendo cada vez mais enfraquecida a cada vez que recebe um ataque do oponente, até que sua vida chegue a 0 e a tropa seja eliminada.
+O jogo se divide turno a turno, cada um contendo 5 ações. Porém, os turnos são divididos em movimento e ataque, sendo um em seguida do outro, iniciando o jogo em um turno de movimento.
+*	No turno de movimento:
+Movimentar suas peças e preparar ataques mais fortes
+*	No turno de ataque:
+Atacar oponentes a seu alcance e disparar habilidades previamente preparadas.
 
 
-**Controles do jogo**
+**Personagens**
 
-  O jogo será feito em 3D, sendo necessário uso do mouse e possibilitando atalhos pelo uso do teclado. 
-Será necessário o uso do cursor para definir alvos de movimentação e ataques.
+O jogo consta(rá) com vários tipos de tropas diferentes, cada uma delas têm um tipo de poder diferente, sendo essas divididas de Tier 1 à 5, será necessário administrar suas escolhas para montar uma composição forte.
+Você pode, por exemplo, no exército de humanos optar entre uma opção mais estratégica, como um capitão que move todas as suas tropas em sincronia, ou dano bruto, com um mago explodindo bolas de fogo enormes.
+
 
 
 **Exigências de Tecnologia**
