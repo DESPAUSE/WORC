@@ -15,12 +15,14 @@ As tropas variam de tamanho e força conforme de acordo com um ranking de 1-5. O
 - ***2 exércitos + PvP Local*** (09/08/21 - 06/12/21) == *R$ 12.000,00*
 - ***2 exércitos + PvP Online + PvCPU*** (09/08/21 - 31/06/22) == *R$ 36.000,00*
 
-
 ========================================================================================
+***
 
-## **GDD**
 
-# ![LogoV1 -  WORC](/assets/images/Worc.png)
+# **GDD**
+
+
+![LogoV1 -  WORC](/assets/images/Worc.png)
 
 
 PC
@@ -31,20 +33,20 @@ Data de Lançamento: 30/06/2022
 
 **Escrito por Despause**
 
-         Contato: 
+Contato[^1][^2][^3]
 
-         Vinícius Almeida - +55 15 99745-3211
-
-         Marcos Filho - +55 15 98158-8023
+[^1]: Vinícius Almeida - +55 15 99745-3211
+[^2]:Marcos Filho - +55 15 98158-8023
+[^3]:despausegamedev@gmail.com
 
 15/11/2021
 
 ***
 
+
 **História e gameplay**
 
 O jogo consiste em uma batalha turno a turno multijogador, onde dois exércitos se enfrentam até a morte. Ao final vence quem derrotar todas as tropas de seu oponente ou somar mais pontos ao final de um tempo determinado.
-
 
 **Fluxo de jogo**
 
@@ -55,6 +57,12 @@ Movimentar suas peças e preparar ataques mais fortes
 *	No turno de ataque:
 Atacar oponentes a seu alcance e disparar habilidades previamente preparadas.
 
+**Competitivo**
+
+WORC foi criado para ser um jogo casual e competitivo. Tanto para ser jogados com amigos em uma noite qualquer quanto para quem quer aprender as melhores estratégias e se destacar entre os melhores jogadores do mundo.
+Os melhores jogadores ao final de cada temporada devem ser recompensados com itens exclusivos de personalização.
+
+***
 
 **Personagens**
 
@@ -72,6 +80,7 @@ Havendo três tipos de tropa Tier 5, quatro de Tier 4 e 3, e cinco de Tier 2 e 1
 ![Tiers](/assets/images/Apresentação1.jpg)
 
 A imagem representa a quantidade de tropas diferentes disponíveis por tier, cada círculo verde representa a quantidade máxima possível do tier.
+***
 
 **Controles**
 
@@ -80,16 +89,34 @@ O controle do jogo será através de mouse e interface. Clicando em tropas, onde
 **Principais Conceitos do Gameplay**
 
 O jogo é multijogador baseado em partidas, os jogadores escolhem quais raças usarão e iniciam uma partida.
+
 ![MMago](/assets/images/Mestre%20mago.png)
 
-**Front End do Jogo**
+Cada linha de informação representa qual será o status da tropa baseando-se na quantidade de pontos de vida, que será utilizado para cálculo de Ataque/Defesa/Movimento, como por exemplo a linha 1 (7 pontos para ataque, 4 para defesa e 4 para movimento). 
 
-  -	Apresentação do Logotipo Unity
-  -	Apresentação do Logotipo Despause
+Quando é realizado um ataque estes dados são utilizados para calcular a chance de causar dano a um inimigo ou defender-se, sendo 1 ponto de vida o padrão de dano causado.
+O alcance para uma tentativa de ataque base é 1, a menos que algum benefício o mude ou seja uma habilidade específica.
 
+Todas as informações presentes tanto nas cartas quanto a descrição das habilidades estarão presentes na informação da tropa, que será acessada através da HUD.
 
-**Tela de título**
-  Logo ASD, abaixo os botões jogar, opções e sair.
-  A navegação entre os menus será feita através do cursor do mouse.
+**Cenário**
+
+A adaptação do tabuleiro 12x18 será adaptado numa HUD sobreposta a um cenário para a batalha. Seus“espaços”divididos por quadrados, como um tabuleiro de xadrez.
+
+***
+
+**Mecânicas**
+
+  WORC consta com uma vasta variedade de habilidades e personagens, cada um com mecânicas diferentes, como por exemplo atacar seu inimigo para longe, causar mais dano, lançar bolas de fogo, transporte de tropas, etc.
+  
+Seguida das informações de ataque defesa e movimento há a descrição da habilidade. 
+
+![BolaDeFogo](/assets/images/Bola%20de%20fogo.png)
+
+Como descrito, a habilidade bola de fogo por exemplo terá seus números x e y substituídos pela quantidade atual de vida (na primeira linha x = 5 e y = 5)
+
+As habilidades mais poderosas necessitam de uma ação de preparação (indicado na imagem pelo símbolo antecessor ao nome da habilidade ⓘ) e outra ação para ser executada, ou seja, torna-se necessário dois turnos para o lançamento de uma bola de fogo. Assim que disparada, a habilidade necessita de preparação novamente caso queira usá-la outra vez.
+
+***
 
 ========================================================================================
