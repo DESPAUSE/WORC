@@ -15,7 +15,6 @@ As tropas variam de tamanho e força conforme de acordo com um ranking de 1-5. O
 - ***2 exércitos + PvP Local*** (09/08/21 - 06/12/21) == *R$ 12.000,00*
 - ***2 exércitos + PvP Online + PvCPU*** (09/08/21 - 31/06/22) == *R$ 36.000,00*
 
-========================================================================================
 ***
 
 
@@ -118,5 +117,3 @@ Como descrito, a habilidade bola de fogo por exemplo terá seus números x e y s
 As habilidades mais poderosas necessitam de uma ação de preparação (indicado na imagem pelo símbolo antecessor ao nome da habilidade ⓘ) e outra ação para ser executada, ou seja, torna-se necessário dois turnos para o lançamento de uma bola de fogo. Assim que disparada, a habilidade necessita de preparação novamente caso queira usá-la outra vez.
 
 ***
-
-========================================================================================
