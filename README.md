@@ -68,9 +68,9 @@ Os melhores jogadores ao final de cada temporada devem ser recompensados com ite
 O jogo consta(rá) com vários tipos de tropas diferentes, cada uma delas têm um tipo de poder diferente, sendo essas divididas de Tier 1 à 5, será necessário administrar suas escolhas para montar uma composição forte.
 Você pode, por exemplo, no exército de humanos optar entre uma opção mais estratégica, como um capitão que move todas as suas tropas em sincronia, ou dano bruto, com um mago explodindo bolas de fogo enormes.
 
-![Tropas](/assets/images/Tropas.png)
+![Tropas](/assets/images/Humanos.png)
 
-Cada exército contém 21 tropas distintas. As tropas variam de tamanho e força conforme de acordo com um Tier de 1-5. O jogador pode escolher:
+Cada exército contém 21 tropas distintas. As tropas variam de força conforme de acordo com um Tier de 1-5; entretanto, o jogador pode escolher:
 * Uma tropa de Tier 5 e 4;
 * Duas de Tier 3;
 * Três de Tier 2 e 1. 
