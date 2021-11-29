@@ -1,7 +1,7 @@
 ## ***High Concept***
 # **WORC**
 
-* **Descrição: WORC** é um jogo de estratégia, onde, dois exércitos com tropas únicas se enfrentam até a morte.
+* **Descrição: WORC** é um jogo de estratégia, onde dois exércitos com tropas únicas se enfrentam até a morte.
 * **Gênero:** Tático por turnos (*Turn-based tactics*).
 * **Mecânicas:** Dois jogadores se enfrentam comandando exércitos com tropas distintas e habilidades únicas. O objetivo é exterminar o exército inimigo antes de ser exterminado por ele. Cada jogador escolhe um exército de uma das raças do jogo (Orcs, elfos, humanos, etc) e as 10 peças que irão utilizar em batalha, com cada exército contendo 21 tropas distintas.
 As tropas variam de tamanho e força conforme de acordo com um ranking de 1-5. O jogador pode pegar uma tropa de Tier 5 e 4, duas de Tier 3 e três de Tier 2 e 1. Havendo três tipos de tropa Tier 5, quatro de Tier 4 e 3, e cinco de Tier 2 e 1.
