@@ -101,13 +101,13 @@ Todas as informações presentes tanto nas cartas quanto a descrição das habil
 
 **Cenário**
 
-A adaptação do tabuleiro 12x18 será adaptado numa HUD sobreposta a um cenário para a batalha. Seus“espaços”divididos por quadrados, como um tabuleiro de xadrez.
+A adaptação do tabuleiro 12x18 será adaptado numa HUD sobreposta a um cenário para a batalha. Seus “espaços” divididos por quadrados, como um tabuleiro de xadrez.
 
 ***
 
 **Mecânicas**
 
-  WORC consta com uma vasta variedade de habilidades e personagens, cada um com mecânicas diferentes, como por exemplo atacar seu inimigo para longe, causar mais dano, lançar bolas de fogo, transporte de tropas, etc.
+  WORC consta com uma vasta variedade de habilidades e personagens, cada um com mecânicas diferentes, como por exemplo atacar seu inimigo para longe, conjurar raízes, lançar bolas de fogo, transporte de tropas, etc.
   
 Seguida das informações de ataque defesa e movimento há a descrição da habilidade. 
 
