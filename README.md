@@ -49,8 +49,9 @@ O jogo consiste em uma batalha turno a turno multijogador, onde dois exércitos 
 
 **Fluxo de jogo**
 
-As tropas controladas pelos jogadores são mais fortes no início do jogo, sendo cada vez mais enfraquecida a cada vez que recebe um ataque do oponente, até que sua vida chegue a 0 e a tropa seja eliminada.
+As tropas controladas pelos jogadores são mais fortes no início do jogo, sendo cada vez mais enfraquecidas a cada vez que recebem um ataque do oponente, até que sua vida chegue a 0 e a tropa seja eliminada.
 O jogo se divide turno a turno, cada um contendo 5 ações. Porém, os turnos são divididos em movimento e ataque, sendo um em seguida do outro, iniciando o jogo em um turno de movimento.
+O jogador pode:
 *	No turno de movimento:
 Movimentar suas peças e preparar ataques mais fortes
 *	No turno de ataque:
@@ -58,14 +59,14 @@ Atacar oponentes a seu alcance e disparar habilidades previamente preparadas.
 
 **Competitivo**
 
-WORC foi criado para ser um jogo casual e competitivo. Tanto para ser jogados com amigos em uma noite qualquer quanto para quem quer aprender as melhores estratégias e se destacar entre os melhores jogadores do mundo.
-Os melhores jogadores ao final de cada temporada devem ser recompensados com itens exclusivos de personalização.
+WORC foi criado para ser um jogo casual e competitivo. Tanto para ser jogado com amigos em uma noite qualquer quanto para o jogador que gosta de aprender as melhores estratégias e se destacar entre os melhores jogadores do mundo.
+Os melhores jogadores ao final de cada temporada deverão ser recompensados com itens exclusivos de personalização.
 
 ***
 
 **Personagens**
 
-O jogo consta(rá) com vários tipos de tropas diferentes, cada uma delas têm um tipo de poder diferente, sendo essas divididas de Tier 1 à 5, será necessário administrar suas escolhas para montar uma composição forte.
+O jogo consta(rá) com vários tipos de tropas diferentes, cada uma delas têm um tipo de poder diferente, sendo essas divididas de Tier 1 à 5. Será necessário administrar suas escolhas para montar uma composição forte.
 Você pode, por exemplo, no exército de humanos optar entre uma opção mais estratégica, como um capitão que move todas as suas tropas em sincronia, ou dano bruto, com um mago explodindo bolas de fogo enormes.
 
 ![Tropas](/assets/images/Humanos.png)
@@ -83,7 +84,7 @@ A imagem representa a quantidade de tropas diferentes disponíveis por tier, cad
 
 **Controles**
 
-O controle do jogo será através de mouse e interface. Clicando em tropas, onde deverá se mover, quem deverá atacar, qual habilidade usará etc.
+O controle do jogo será através de mouse e interface. Clicando em tropas, onde deverá se mover, quem deverá atacar, qual habilidade usará, etc.
 
 **Principais Conceitos do Gameplay**
 
