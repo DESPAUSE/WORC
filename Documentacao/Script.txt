@@ -1,0 +1,40 @@
+Apresentação
+	DESPAUSE
+	WORC
+	INTEGRANTES
+
+DIFERENCIAL
+	Iniciou como jogo de tabuleiro
+	Objetivo:
+		Adaptar computador
+		Depois celular
+	Sistema de combate único
+	Tactics PVP
+	Diversas opções para montar o exercíto
+
+DESENVOLVIMENTO
+	Unity
+	Unity
+	Photoshop
+	ZBrush
+	FL Studio
+	Audacity
+
+	Publicado em:
+		GameJolt.com
+
+PUBLICO ALVO
+	Jogadores de RPG e jogos tactic ou de tabuleiro entre 19 e 40 anos.
+
+ORÇAMENTO
+	180K equipe
+	50K licenças
+
+MECÂNICAS
+	Pre-jogo Inicia posicionando
+	O jogo se divide em 2 turno:
+	MOVIMENTO
+	ATAQUE
+	cada um com 5 ações
+	Tropas com Habilidades
+	Ativas, Passivas.
