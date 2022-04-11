@@ -107,7 +107,7 @@ A adaptação do tabuleiro 12x18 será adaptado numa HUD sobreposta a um cenári
 
 **Mecânicas**
 
-  WORC consta com uma vasta variedade de habilidades e personagens, cada um com mecânicas diferentes, como por exemplo atacar seu inimigo para longe, conjurar raízes, lançar bolas de fogo, transporte de tropas, etc.
+  WORC conta com uma vasta variedade de habilidades e personagens, cada um com mecânicas diferentes, como por exemplo atacar seu inimigo para longe, conjurar raízes, lançar bolas de fogo, transporte de tropas, etc.
   
 Seguida das informações de ataque defesa e movimento há a descrição da habilidade. 
 
@@ -116,3 +116,9 @@ Seguida das informações de ataque defesa e movimento há a descrição da habi
 Como descrito, a habilidade bola de fogo por exemplo terá seus números x e y substituídos pela quantidade correspondente ao número atual de vida (Ex: Mestre Mago, com seu máximo de vida: X=5 e Y=5)
 
 As habilidades mais poderosas necessitam de uma ação de preparação (indicado na imagem pelo símbolo antecessor ao nome da habilidade ⓘ) e outra ação para ser executada, ou seja, torna-se necessário dois turnos para o lançamento de uma bola de fogo. Assim que disparada, a habilidade necessita de preparação novamente caso queira usá-la outra vez.
+
+***
+
+**Inteligência Artificial**
+
+  Em Worc utilizamos uma IA baeada em pathfinding, onde ao clicar em um bloco no alcance do movimento da tropa, o jogo encontra o menor caminho entre estes dois pontos respeitando o movimento do tabuleiro (sem andar na diagonal) e coloca-se a fazer o movimento. Também há uma diferenciação nos turnos em Worc, havendo um turno de movimento (onde mesmo que o inimigo esteja no seu alcance, você não poderá ataca-lo) e turno de ataque (onde mesmo que no alcance do seu movimento, você não poderá se movimentar).
