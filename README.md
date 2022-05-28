@@ -46,17 +46,23 @@ Contato[^1][^2][^3]
 **História e gameplay**
 
 O jogo consiste em uma batalha turno a turno multijogador, entre dois exércitos formados de seres mitológicos e guerreiros lendários, com inspirações no clássico RPG de Fantasia Medieval. 
+
 O objetivo é acabar com todas as tropas do seu inimigo e para isso você tera 1 turno de movimento e 1 turno de ataque, cada um com 5 ações onde você pode mobilizar tropas, usar magias e deferir golpes poderosos para assim alcançar a vitória acabando com o exercíto inimigo.
 
 **Fluxo de jogo**
 
-As tropas controladas pelos jogadores são mais fortes no início do jogo, sendo cada vez mais enfraquecidas a cada vez que recebem um ataque do oponente, até que sua vida chegue a 0 e a tropa seja eliminada.
-O jogo se divide turno a turno, cada um contendo 5 ações. Porém, os turnos são divididos em movimento e ataque, sendo um em seguida do outro, iniciando o jogo em um turno de movimento.
-O jogador pode:
-*	No turno de movimento:
-Movimentar suas peças e preparar ataques mais fortes
-*	No turno de ataque:
-Atacar oponentes a seu alcance e disparar habilidades previamente preparadas.
+Ao iniciar uma partida contra um oponente é decidido randomicamente quem jogará primeiro e se inicia a fase de turnos:
+
+* **Pré-Turno**
+  Os jogadores alocam as tropas no tabuleiro;
+  
+* **Turno de Movimento**
+  Os jogadores tem 5 ações para movimentar e utilizar habilidades, e ao fim das 5 ações se inicia o turno de ataque;
+  
+* **Turno de Ataque**
+  Os jogadores tem 5 ações para atacar tropas próximas e usar habilidades, ao fim das 5 ações se inicia novamente o turno de movimento.
+  
+WORC acaba apenas quando um dos jogadores não tem mais tropas no tabuleiro, dando assim a vitória ao exercito remanescente.
 
 **Competitivo**
 
