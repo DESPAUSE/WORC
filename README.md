@@ -1,3 +1,7 @@
+<p align="left">
+<img src="/assets/images/Logo.png" width="250" title="DESPAUSE">
+</p>
+
 ## ***High Concept***
 # **WORC**
 
@@ -6,8 +10,9 @@
 * **Mecânicas:** Dois jogadores se enfrentam comandando exércitos com tropas distintas e habilidades únicas. O objetivo é exterminar o exército inimigo antes de ser exterminado por ele. Cada jogador escolhe um exército de uma das raças do jogo (Orcs, elfos, humanos, etc) e as 10 peças que irão utilizar em batalha, com cada exército contendo 21 tropas distintas.
 As tropas variam de tamanho e força conforme de acordo com um ranking de 1-5. O jogador pode pegar uma tropa de Tier 5 e 4, duas de Tier 3 e três de Tier 2 e 1. Havendo três tipos de tropa Tier 5, quatro de Tier 4 e 3, e cinco de Tier 2 e 1.
 ![Tiers](/assets/images/Tiers.png)
-* **Diferencial:** Desde magos a orcs gigantes, **WORC** oferece inúmeras possibilidades e estratégias, o jogador precisa pensar e se adaptar para poder triunfar nos campos de batalha.
+* **Diferencial:** *WORC* é um jogo 1v1 multiplayer de tabuleiro e estratégia, onde o jogador conta com uma variedade imensa de tropas diferentes e combinações de exército, para que, possa pensar e se adaptar na sua busca pela vitória nos campos de batalha
 * **Plataforma:** Windows 7 ou Superior. 
+* **Distribuido em:** [GameJolt - WORC](https://gamejolt.com/games/worc/669108)
 * **Público alvo:** Jogadores de RPG, jogos de tabuleiro e RTS.
 * **Classificação indicativa:** 12 anos – Violência implícita e jogabilidade baseada em estratégia e adaptação.
 * **Equipe:** Marcos Eduardo e Vinícius Almeida
@@ -129,3 +134,7 @@ As habilidades mais poderosas necessitam de uma ação de preparação (indicado
 **Inteligência Artificial**
 
   Em Worc utilizamos uma IA baeada em pathfinding, onde ao clicar em um bloco no alcance do movimento da tropa, o jogo encontra o menor caminho entre estes dois pontos respeitando o movimento do tabuleiro (sem andar na diagonal) e coloca-se a fazer o movimento. Também há uma diferenciação nos turnos em Worc, havendo um turno de movimento (onde mesmo que o inimigo esteja no seu alcance, você não poderá ataca-lo) e turno de ataque (onde mesmo que no alcance do seu movimento, você não poderá se movimentar).
+
+<p align="right">
+<img src="/assets/images/Logo.png" width="250" title="DESPAUSE">
+</p>
