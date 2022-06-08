@@ -55,22 +55,28 @@ Repositórios[^4][^5][^6]
 
 **História e gameplay**
 
-O jogo consiste em uma batalha turno a turno multijogador, entre dois exércitos formados de seres mitológicos e guerreiros lendários, com inspirações no clássico RPG de Fantasia Medieval. 
+O jogo consiste em uma batalha com inspirações no clássico RPG de Fantasia Medieval, sendo turno a turno e multijogador online, os jogadores decidirão, entre dois exércitos formados de seres mitológicos e guerreiros lendários, qual será o ganhador.  
 
-O objetivo é acabar com todas as tropas do seu inimigo e para isso você tera 1 turno de movimento e 1 turno de ataque, cada um com 5 ações onde você pode mobilizar tropas, usar magias e deferir golpes poderosos para assim alcançar a vitória acabando com o exercíto inimigo.
+O objetivo é acabar com todas as tropas do seu inimigo,  cada um com 5 turnos onde você pode mobilizar tropas, usar magias e deferir golpes poderosos para assim alcançar a vitória acabando com o exercíto inimigo.
 
 **Fluxo de jogo**
 
-Ao iniciar uma partida contra um oponente é decidido randomicamente quem jogará primeiro e se inicia a fase de turnos:
+Ao iniciar uma partida contra um oponente é decidido randomicamente quem jogará primeiro e se no seguinte fluxo:
 
-* **Pré-Turno**
-  Os jogadores alocam as tropas no tabuleiro;
+* **Fase de Posicionamento**
+  Composta de apenas 1 turno durante todo o jogo, é a fase na qual os jogadores alocam as tropas no tabuleiro; 
+  <p align="left">
+  <img src="/assets/images/Fase_de_posicionamento_1.png" width="420" height="240"  title="Fase de posicionamento">
   
-* **Turno de Movimento**
-  Os jogadores tem 5 ações para movimentar e utilizar habilidades, e ao fim das 5 ações se inicia o turno de ataque;
+  O jogador 1 posiciona suas tropas do lado azul, e o jogador 2, do lado vermelho.
+  </p>
   
-* **Turno de Ataque**
-  Os jogadores tem 5 ações para atacar tropas próximas e usar habilidades, ao fim das 5 ações se inicia novamente o turno de movimento.
+  
+* **Fase de Movimento**
+  Os jogadores tem 5 turnos para movimentar e utilizar habilidades, e ao fim das 5 ações se inicia a fase de ataque;
+  
+* **Fase de Ataque**
+  Os jogadores tem 5 turnos para atacar tropas próximas e usar habilidades, ao fim das 5 ações se inicia novamente a fase de movimento.
   
 WORC acaba apenas quando um dos jogadores não tem mais tropas no tabuleiro, dando assim a vitória ao exercito remanescente.
 
@@ -83,10 +89,10 @@ Os melhores jogadores ao final de cada temporada deverão ser recompensados com 
 
 **Personagens**
 
-O jogo consta(rá) com vários tipos de tropas diferentes, cada uma delas têm um tipo de poder diferente, sendo essas divididas de Tier 1 à 5. Será necessário administrar suas escolhas para montar uma composição forte.
-Você pode, por exemplo, no exército de humanos optar entre uma opção mais estratégica, como um capitão que move todas as suas tropas em sincronia, ou dano bruto, com um mago explodindo bolas de fogo enormes.
+O jogo consta com vários tipos de tropas diferentes, cada uma delas têm um tipo de poder diferente, sendo essas divididas de Tier 1 à 5. Será necessário administrar suas escolhas para montar uma composição forte.
+Você pode, por exemplo, no exército de humanos optar entre uma opção mais estratégica, como um capitão que move todas as suas tropas em sincronia, ou dano bruto, com um mago explodindo bolas de fogo em vários alvos ao mesmo tempo.
 
-![Tropas](/assets/images/Humanos.png)
+![Tropas](/assets/images/Tropas.png)
 
 Cada exército contém 21 tropas distintas. As tropas variam de força conforme de acordo com um Tier de 1-5; entretanto, o jogador pode escolher:
 * Uma tropa de Tier 5 e 4;
@@ -105,7 +111,7 @@ O controle do jogo será através de mouse e interface. Clicando em tropas, onde
 
 **Principais Conceitos do Gameplay**
 
-O jogo é multijogador baseado em partidas, os jogadores escolhem quais raças usarão e iniciam uma partida.
+O jogo é multijogador, sendo ministrado em partidas online.
 
 ![MMago](/assets/images/Mestre%20mago.png)
 
