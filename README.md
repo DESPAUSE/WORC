@@ -13,7 +13,7 @@ As tropas variam de tamanho e força conforme de acordo com um ranking de 1-5. O
 * **Requisitos:** Windows 7 ou Superior e Conexão com a Internet. 
 * **Distribuido em:** [GameJolt - WORC](https://gamejolt.com/games/worc/669108)
 * **Público alvo:** Jogadores de RPG, jogos de tabuleiro e RTS.
-* **Classificação indicativa:** 12 anos – Violência implícita e jogabilidade baseada em estratégia e adaptação.
+* **Classificação indicativa:** 14 anos – Violência implícita e jogabilidade baseada em estratégia e adaptação.
 * **Equipe:** Marcos Eduardo e Vinícius Almeida
 * **Jogo de Tabuleiro** *criado por:* Roger Hainz
 * **Orçamento:** 
