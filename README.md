@@ -2,7 +2,6 @@
 <img src="/assets/images/Logo.png" width="250" title="DESPAUSE">
 </p>
 
-## ***High Concept***
 # **WORC**
 
 * **Descrição:** WORC é um jogo de estratégia, onde dois exércitos com tropas únicas se enfrentam até a morte.
