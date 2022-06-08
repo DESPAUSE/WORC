@@ -69,6 +69,8 @@ Ao iniciar uma partida contra um oponente é decidido randomicamente quem jogar�
   <img src="/assets/images/Fase_de_posicionamento_1.png" width="420" height="240"  title="Fase de posicionamento">
   
   O jogador 1 posiciona suas tropas do lado azul, e o jogador 2, do lado vermelho.
+  
+  <img src="/assets/images/Fase_de_posicionamento_2.png" width="420" height="240"  title="Fase de posicionamento 2">
   </p>
   
   
@@ -93,6 +95,7 @@ O jogo consta com vários tipos de tropas diferentes, cada uma delas têm um tip
 Você pode, por exemplo, no exército de humanos optar entre uma opção mais estratégica, como um capitão que move todas as suas tropas em sincronia, ou dano bruto, com um mago explodindo bolas de fogo em vários alvos ao mesmo tempo.
 
 ![Tropas](/assets/images/Tropas.png)
+![Tropas3D](/assets/images/Tropas_3D.png)
 
 Cada exército contém 21 tropas distintas. As tropas variam de força conforme de acordo com um Tier de 1-5; entretanto, o jogador pode escolher:
 * Uma tropa de Tier 5 e 4;
