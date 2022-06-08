@@ -42,6 +42,12 @@ Contato[^1][^2][^3]
 [^2]:Marcos Filho - +55 15 98158-8023
 [^3]:despausegamedev@gmail.com
 
+Repositórios[^4][^5][^6]
+
+[^4]:[GitHub](https://github.com/MFcortez/WORC-GAME)
+[^5]:[Trello](https://trello.com/b/ilbv4KcD/despause-worc)
+[^6]:[Site](https://sites.google.com/view/despause/)
+
 15/11/2021
 
 ***
