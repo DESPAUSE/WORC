@@ -1,5 +1,5 @@
 <p align="left">
-<img src="/assets/images/Logo.png" width="250" title="DESPAUSE">
+<img src="/assets/images/Logo.png" width="50" title="DESPAUSE">
 </p>
 
 # **WORC**
@@ -135,5 +135,5 @@ As habilidades mais poderosas necessitam de uma ação de preparação (indicado
   Em Worc utilizamos uma IA baeada em pathfinding, onde ao clicar em um bloco no alcance do movimento da tropa, o jogo encontra o menor caminho entre estes dois pontos respeitando o movimento do tabuleiro (sem andar na diagonal) e coloca-se a fazer o movimento. Também há uma diferenciação nos turnos em Worc, havendo um turno de movimento (onde mesmo que o inimigo esteja no seu alcance, você não poderá ataca-lo) e turno de ataque (onde mesmo que no alcance do seu movimento, você não poderá se movimentar).
 
 <p align="right">
-<img src="/assets/images/Logo.png" width="250" title="DESPAUSE">
+<img src="/assets/images/Logo.png" width="50" title="DESPAUSE">
 </p>
